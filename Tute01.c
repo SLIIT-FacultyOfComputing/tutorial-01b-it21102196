@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 int main() {
-  
+  printf("Just checking");
   return 0;
 }
 
